@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706874270165
+current_stage: None
+description: null
+last_updated_timestamp: 1706874270165
+name: exp_model
+run_id: 30a74aa560b64c8caaf01b84139c77f4
+run_link: null
+source: /home/gigabyte/mlops_4/mlflow/2/30a74aa560b64c8caaf01b84139c77f4/artifacts/exp_model
+status: READY
+status_message: null
+storage_location: /home/gigabyte/mlops_4/mlflow/2/30a74aa560b64c8caaf01b84139c77f4/artifacts/exp_model
+user_id: null
+version: 1

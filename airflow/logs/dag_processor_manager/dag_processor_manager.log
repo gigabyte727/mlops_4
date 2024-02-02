@@ -1,0 +1,206 @@
+[2024-02-02T13:46:40.188+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-02-02T13:46:40.198+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-02-02T13:46:40.198+0300] {manager.py:489} INFO - Checking for new files in /home/gigabyte/mlops_4/airflow/dags every 300 seconds
+[2024-02-02T13:46:40.198+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:46:40.199+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:46:47.847+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T13:49:02.252+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-02-02T13:49:02.254+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-02-02T13:49:02.255+0300] {manager.py:489} INFO - Checking for new files in /home/gigabyte/mlops_4/airflow/dags every 300 seconds
+[2024-02-02T13:49:02.255+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:49:02.256+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:49:32.976+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T13:50:08.139+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-02-02T13:50:08.141+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-02-02T13:50:08.141+0300] {manager.py:489} INFO - Checking for new files in /home/gigabyte/mlops_4/airflow/dags every 300 seconds
+[2024-02-02T13:50:08.141+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:50:08.142+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:50:57.934+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T13:52:18.125+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-02-02T13:52:18.127+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-02-02T13:52:18.127+0300] {manager.py:489} INFO - Checking for new files in /home/gigabyte/mlops_4/airflow/dags every 300 seconds
+[2024-02-02T13:52:18.127+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:52:18.128+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:53:02.756+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T13:53:37.434+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-02-02T13:53:37.435+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-02-02T13:53:37.435+0300] {manager.py:489} INFO - Checking for new files in /home/gigabyte/mlops_4/airflow/dags every 300 seconds
+[2024-02-02T13:53:37.435+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:53:37.436+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:58:38.066+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T13:58:38.066+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:03:38.161+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:03:38.161+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:08:38.320+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:08:38.320+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:13:38.764+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:13:38.764+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:18:38.830+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:18:38.830+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:23:39.175+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:23:39.177+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:28:40.003+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:28:40.003+0300] {manager.py:739} INFO - There are 0 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T14:33:17.375+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T15:09:27.919+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-02-02T15:09:27.922+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-02-02T15:09:27.922+0300] {manager.py:489} INFO - Checking for new files in /home/gigabyte/mlops_4/airflow/dags every 300 seconds
+[2024-02-02T15:09:27.922+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T15:09:27.923+0300] {manager.py:739} INFO - There are 1 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T15:09:28.003+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  10868  0.03s             0           0
+================================================================================
+[2024-02-02T15:09:58.012+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  11407  0.00s             1           0  0.17s           2024-02-02T12:09:57
+================================================================================
+[2024-02-02T15:10:28.053+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  11763  0.01s             1           0  0.19s           2024-02-02T12:10:28
+================================================================================
+[2024-02-02T15:10:58.156+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  12395  0.00s             1           0  0.13s           2024-02-02T12:10:58
+================================================================================
+[2024-02-02T15:11:28.251+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  13068  0.00s             1           0  0.11s           2024-02-02T12:11:28
+================================================================================
+[2024-02-02T15:11:58.325+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  13715  0.00s             1           0  0.12s           2024-02-02T12:11:58
+================================================================================
+[2024-02-02T15:12:28.339+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  14301  0.00s             1           0  0.13s           2024-02-02T12:12:28
+================================================================================
+[2024-02-02T15:12:58.453+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  14886  0.00s             1           0  0.17s           2024-02-02T12:12:58
+================================================================================
+[2024-02-02T15:13:28.554+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  15425  0.00s             1           0  0.10s           2024-02-02T12:13:28
+================================================================================
+[2024-02-02T15:13:58.639+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  16014  0.00s             1           0  0.11s           2024-02-02T12:13:58
+================================================================================
+[2024-02-02T15:14:27.953+0300] {manager.py:736} INFO - Searching for files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T15:14:27.956+0300] {manager.py:739} INFO - There are 1 files in /home/gigabyte/mlops_4/airflow/dags
+[2024-02-02T15:14:28.720+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  16601  0.00s             1           0  0.12s           2024-02-02T12:14:28
+================================================================================
+[2024-02-02T15:14:58.793+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  17255  0.00s             1           0  0.11s           2024-02-02T12:14:58
+================================================================================
+[2024-02-02T15:15:28.890+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  17857  0.00s             1           0  0.11s           2024-02-02T12:15:28
+================================================================================
+[2024-02-02T15:15:58.933+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  18448  0.00s             1           0  0.10s           2024-02-02T12:15:58
+================================================================================
+[2024-02-02T15:16:29.021+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  19063  0.00s             1           0  0.09s           2024-02-02T12:16:29
+================================================================================
+[2024-02-02T15:16:59.071+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  19773  0.00s             1           0  0.13s           2024-02-02T12:16:59
+================================================================================
+[2024-02-02T15:17:29.120+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  20466  0.00s             1           0  0.10s           2024-02-02T12:17:29
+================================================================================
+[2024-02-02T15:17:59.166+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  21052  0.00s             1           0  0.10s           2024-02-02T12:17:59
+================================================================================
+[2024-02-02T15:18:29.221+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                      PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/gigabyte/mlops_4/airflow/dags/google_mention_score.py  21735  0.00s             1           0  0.10s           2024-02-02T12:18:29
+================================================================================
+[2024-02-02T15:18:46.666+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T15:18:46.680+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-02-02T15:18:46.845+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
